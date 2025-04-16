@@ -55,29 +55,31 @@ Projet retenu parmi les meilleures innovations technologiques pour la santé en 
 ---
 
 ## 📸 Captures d’écran
+![splash screen](https://github.com/user-attachments/assets/fc480fe4-65d6-41e0-928f-fa587e5f53d4)
+
+![onbording screens](https://github.com/user-attachments/assets/0444e536-9dab-4c61-9bc1-6c232c271e65)
+
+![Interface de connexion](https://github.com/user-attachments/assets/233e8364-751f-40e3-ad06-7f22cd35874f)
+
+![Interface de jumelage du dispositif](https://github.com/user-attachments/assets/8648b65a-8672-41c3-83b0-1b1474631067)
+
 ![Interface accueille](https://github.com/user-attachments/assets/84c17821-afc2-4235-80a3-cc5d37e93cc5)
 
 
 
 ---
 
-## 📥 Démo ou présentation
-
-🎬 [Lien vers une courte vidéo de présentation](#) (YouTube, Google Drive…)
-
----
-
 ## ⚠️ Code source
 
 Le code source complet est privé pour des raisons de confidentialité médicale et de sécurité.  
-Cependant, une démonstration technique peut être fournie sur demande lors d’un processus de recrutement.
+
 
 ---
 
 ## 📫 Contact
 
 Nematou Kaboré  
-💼 [LinkedIn (si dispo)](https://linkedin.com/in/...)  
+💼 www.linkedin.com/in/nematou-kabore-178b19211 
 📧 nematoukabore987@gmail.com  
 🌍 Ouagadougou, Burkina Faso
 
